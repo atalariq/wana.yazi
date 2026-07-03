@@ -4,6 +4,8 @@ Warm, bookish Gruvbox-leaning [yazi](https://github.com/sxyazi/yazi) flavors wit
 dark + light variants, generated from the canonical
 [Wana](https://github.com/atalariq/wana) base24 palette.
 
+![wana.yazi — dark](preview.png)
+
 This repo ships **two** flavors — `wana-dark` and `wana-light` (not `wana`).
 
 ## Install
