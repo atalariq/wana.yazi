@@ -17,7 +17,7 @@ count_cut      = { fg = "#fffcf0", bg = "#bc4039" }
 count_selected = { fg = "#fffcf0", bg = "#956c00" }
 
 border_symbol = "│"
-border_style  = { fg = "#6f6e69" }
+border_style  = { fg = "#6e6d68" }
 
 [tabs]
 active   = { fg = "#fffcf0", bg = "#1c6aae", bold = true }
@@ -30,11 +30,11 @@ normal_alt  = { fg = "#1c6aae", bg = "#f2f0e5" }
 select_main = { fg = "#fffcf0", bg = "#218078", bold = true }
 select_alt  = { fg = "#218078", bg = "#f2f0e5" }
 
-unset_main = { fg = "#fffcf0", bg = "#a06300", bold = true }
-unset_alt  = { fg = "#a06300", bg = "#f2f0e5" }
+unset_main = { fg = "#fffcf0", bg = "#9b5f00", bold = true }
+unset_alt  = { fg = "#9b5f00", bg = "#f2f0e5" }
 
 [status]
-perm_sep   = { fg = "#6f6e69" }
+perm_sep   = { fg = "#6e6d68" }
 perm_type  = { fg = "#1c6aae" }
 perm_read  = { fg = "#956c00" }
 perm_write = { fg = "#bc4039" }
@@ -69,7 +69,7 @@ cand            = { fg = "#218078" }
 rest            = { fg = "#878580" }
 desc            = { fg = "#a02f6f" }
 separator       = "  "
-separator_style = { fg = "#6f6e69" }
+separator_style = { fg = "#6e6d68" }
 
 [help]
 on      = { fg = "#218078" }
